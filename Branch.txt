@@ -9,3 +9,4 @@ then we can able to switch to other branches.
 8. git branch -D <branch name> - to delete a branch forcefully.
 9. git branch -m <branch name we need to give > - to rename a particular branch we need to be on that branch and we need to rename it.
 10. git branch -v  - it will list the branches and also show the last commit messages.
+11. git merge <branch name>-
