@@ -1,0 +1,11 @@
+1. git branch - it will list the branch that where there in it.
+2. git branch < branch name>  - this command will create the branch.
+3. git switch < branch name> - it will switch to the particular branch.
+4. git switch -c < branch name> - it will create and move to that branch.
+5. git checkout < branch name> - it will move to that branch.
+6. If we modify any existing files, but without commiting that we cannot be able to switch to that branch. But if we added a new files i.e the file was not existing in previous branches
+then we can able to switch to other branches.
+7. git branch -d < branch name> - to delete a branch use this command, but we should not be in that particular branch. If we are in that branch then it cannot be deleted.
+8. git branch -D <branch name> - to delete a branch forcefully.
+9. git branch -m <branch name we need to give > - to rename a particular branch we need to be on that branch and we need to rename it.
+10. git branch -v  - it will list the branches and also show the last commit messages.
